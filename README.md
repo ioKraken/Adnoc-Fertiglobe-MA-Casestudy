@@ -106,18 +106,12 @@ This is an independent public-information case study. Limitations include:
 ├── deal-memo/
 │   ├── ADNOC_Fertiglobe_One_Page_Deal_Memo.docx
 │   └── ADNOC_Fertiglobe_One_Page_Deal_Memo.pdf
-├── resume/
-│   ├── ADNOC_Fertiglobe_IB_Resume_Section.docx
-│   └── ADNOC_Fertiglobe_IB_Resume_Section.pdf
 └── assets/
     └── fertiglobe_pitchbook_montage.png
 ```
 
 The Excel workbook contains the detailed model and source register. The pitchbook montage is a visual preview of the presentation. DOCX versions are editable; PDFs are convenient read-only versions.
 
-## Suggested Resume Description
 **Transaction Valuation & Deal Economics — ADNOC / Fertiglobe**  
 Built an independent M&A model for ADNOC's $3.62bn acquisition of OCI's 50%+1 Fertiglobe stake, including historical financials, driver-based forecast, DCF/comps valuation, synergy model, deal NPV and return scenarios.
 
-## Disclaimer
-This project is for education, recruiting and portfolio purposes only. It should not be interpreted as investment advice, a fairness opinion, or a statement of ADNOC's or Fertiglobe's internal views.
